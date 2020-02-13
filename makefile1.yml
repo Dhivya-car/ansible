@@ -2,4 +2,4 @@
   become: true
   tasks:
   - name: Create a file
-    file: path=/home/ubuntu/niranjan.txt state=touch
+    file: path=/home/ubuntu/dhivya.txt state=touch
